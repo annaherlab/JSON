@@ -1,0 +1,139 @@
+{
+  "supermercados": [
+    {
+      "nombre": "Mercadona",
+      "direccion": "Calle Las Palmeras, Barcelona",
+      "geolocalizacion": "24.3562, -62.1846",
+      "productos": [
+        {
+          "nombre": "Agua",
+          "vigencia": "2023-04-03",
+          "habitual": false,
+          "unidades": 1,
+          "unidad_medida": "litro",
+          "precio": 0.80,
+          "adquirido": true
+        },
+        {
+          "nombre": "Pollo",
+          "vigencia": "2023-04-10",
+          "habitual": true,
+          "unidades": 4,
+          "unidad_medida": "kilogramo",
+          "precio": 4.20,
+          "adquirido": false
+        },
+        {
+          "nombre": "Platanos",
+          "vigencia": "2023-04-30",
+          "habitual": true,
+          "unidades": 6,
+          "unidad_medida": "kilogramo",
+          "precio": 2.50,
+          "adquirido": true
+        }
+      ],
+     "ofertas" : [
+     	{
+     		"definición" : "Con la compra de 2 packs de yogures, llevate el tercero gratis",
+     		"finalizacion" : "2023-04-15"
+     	},
+     	{
+     		"definición" : "Productos con caducidad cercana al 50%",
+     		"finalizacion" : "2023-04-21"
+     	},
+     	{
+     		"definición" : "Fruta de temporada al 10% de descuento",
+     		"finalizacion" : "2023-04-30"
+     	}
+     ]
+    },
+    {
+      "nombre": "Dia",
+      "direccion": "Calle San Martin, Barcelona",
+      "geolocalizacion": "36.3713, -20.1966",
+      "productos": [
+        {
+          "nombre": "Garbanzos",
+          "vigencia": "2023-07-23",
+          "habitual": true,
+          "unidades": 1,
+          "unidad_medida": "kilogramo",
+          "precio": 1.43,
+          "adquirido": true
+        },
+        {
+          "nombre": "Lentejas",
+          "vigencia": "2023-07-26",
+          "habitual": true,
+          "unidades": 1,
+          "unidad_medida": "kilogramos",
+          "precio": 1.50,
+          "adquirido": false
+        }
+      ],
+     "ofertas" : [
+     	{
+     		"definición" : "2x1 en paquetes de helados",
+     		"finalizacion" : "2023-04-06"
+     	},
+     	{
+     		"definición" : "Segunda unidad al 50% en embutido",
+     		"finalizacion" : "2023-04-13"
+     	},
+     	{
+     		"definición" : "Con cada compra llevate cupones sorpresa",
+     		"finalizacion" : "2023-04-11"
+     	}
+     ]
+    },
+        {
+      "nombre": "Alcampo",
+      "direccion": "Calle Pedro Casanova, Barcelona",
+      "geolocalizacion": "43.1213, -12.1536",
+      "productos": [
+        {
+          "nombre": "Patatas",
+          "vigencia": "2023-05-19",
+          "habitual": true,
+          "unidades": 1,
+          "unidad_medida": "kilogramo",
+          "precio": 3.23,
+          "adquirido": true
+        },
+        {
+          "nombre": "Pan integral",
+          "vigencia": "2023-05-28",
+          "habitual": true,
+          "unidades": 1,
+          "unidad_medida": "kilogramo",
+          "precio": 1.20,
+          "adquirido": false
+        },
+        {
+          "nombre": "Pistachos",
+          "vigencia": "2023-07-03",
+          "habitual": true,
+          "unidades": 1,
+          "unidad_medida": "kilogramo",
+          "precio": 4.10,
+          "adquirido": false
+        }
+      ],
+     "ofertas" : [
+     	{
+     		"descuento" : "2x1 en pizzas congeladas",
+     		"finalizacion" : "2023-05-10"
+     	},
+     	{
+     		"descuento" : "10% de descuento en los productos de la sección de perfumeria",
+     		"finalizacion" : "2023-05-12"
+     	},
+     	{
+     		"descuento" : "La segunda unidad al 70%",
+     		"finalizacion" : "2023-04-29"
+     	}
+     ]
+    }
+  ]
+}

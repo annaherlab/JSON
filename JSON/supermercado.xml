@@ -1,0 +1,32 @@
+<Supermercado>
+<nombre>Mercadona</nombre>
+<Dirección>Calle Las Palmeras, Barcelona</Dirección>
+<geolocalización>24.3562, -62.1846</geolocalización>
+<producto>
+    <nombre>Agua</nombre>
+    <vigencia>2023-04-03</vigencia>
+    <habitual>false</habitual>
+    <unidades>1</unidades>
+    <unidad_medida>litro</unidad_medida>
+    <precio>0.80</precio>
+    <adquirido>true</adquirido>
+</producto>
+<producto>
+    <nombre>Pollo</nombre>
+    <vigencia>2023-04-10</vigencia>
+    <habitual>true</habitual>
+    <unidades>4</unidades>
+    <unidad_medida>kilogramo</unidad_medida>
+    <precio>4.20</precio>
+    <adquirido>tfalse</adquirido>
+</producto>
+<producto>
+    <nombre>Platanos</nombre>
+    <vigencia>2023-04-30</vigencia>
+    <habitual>true</habitual>
+    <unidades>6</unidades>
+    <unidad_medida>kilogramo</unidad_medida>
+    <precio>2.50</precio>
+    <adquirido>true</adquirido>
+</producto>
+</Supermercado>
